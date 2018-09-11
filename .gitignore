@@ -42,4 +42,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # ignore node-sass generated css files
-/src/**/*.css
+/src/*.css
